@@ -22,8 +22,8 @@
 	body{
 			font-family: "Saira", sans-serif;
 			padding: 5rem;
-			color: rgb(186, 57, 255);
-			background-color: rgb(255, 231, 109);
+			color: rgb(10, 55, 133);
+			background-color: rgb(242, 94, 41);
 		}
 		h1{ 
 			font-size: 6vw;
