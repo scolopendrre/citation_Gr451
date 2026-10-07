@@ -1,0 +1,20 @@
+#navbar{
+	border: 2pt solid #f1357a ;
+	background: #fff9;
+	max-width: max-content;
+	position: fixed;
+	bottom: 1rem;
+	left: 1rem;
+	display: flex;
+}
+
+#navbar a {
+color: #f1357a;
+text-decoration: none;
+padding: 0.5rem ;
+}
+
+#navbar a:hover{ 
+		background: #f1357a;
+		color: #fff;
+}
